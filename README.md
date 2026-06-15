@@ -41,5 +41,6 @@ Este projeto contribuiu para o desenvolvimento de conhecimentos em:
 * Organização de projetos práticos
 
 ---
+## Julia Victória
 
-🔗 GitHub: https://github.com/doffysmile
+![PUCPR](https://img.shields.io/badge/PUCPR-Ciência%20da%20Computação-blue?style=for-the-badge)
